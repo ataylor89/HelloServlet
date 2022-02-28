@@ -4,7 +4,7 @@
 
 This web application can be packaged with the command "mvn package" and run with the command "mvn jetty:run"
 
-## The Maven Jetty plugin
+## Servlet containers
 
 A Java servlet runs inside a servlet container. Maven Jetty is a servlet container and so is Apache Tomcat. 
 
