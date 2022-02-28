@@ -2,7 +2,7 @@
 
 ## Packaging and running the webapp
 
-This web application can be packaged with the command "mvn package" and run with the command "mvn jetty:run"
+The web application can be packaged with the command "mvn package" and run with the command "mvn jetty:run"
 
 ## Servlet containers
 
